@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://github.com/NirajBytes/NirajBytes/blob/main/Planet.gif" alt="Planet GIF" width="100"/>
 </div>
-
+<div align="right">
+  <img src="https://github.com/NirajBytes/NirajBytes/blob/main/Man%20Thinking%20Something.gif" alt="Planet GIF" width="150"/>
+</div>
 
 
 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Java.
