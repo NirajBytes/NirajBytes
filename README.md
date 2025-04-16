@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/NirajBytes/NirajBytes/blob/main/Planet.gif" alt="Planet GIF" width="100"/>
+</div>
+
+
+
 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Java.
 
 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 Spring Boot and React.
